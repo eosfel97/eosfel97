@@ -1,48 +1,74 @@
-# 👋 Bonjour, je suis [Ton Prénom] !
+# 👋 Bonjour, je suis Any Gnahiet !
 
-Bienvenue sur mon GitHub.  
-Je suis passionné par l'informatique, les systèmes d'information, la gestion de données et le développement logiciel.
-
----
-
-## 🧰 Technologies & outils
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+🎓 Étudiant en Licence Pro Systèmes d'Information et Gestion de Données au CNAM  
+🎯 En recherche d’un stage de 6 mois à partir d’avril 2025  
+🌍 Basé à Épinay-sur-Seine | 📞 +33 7 66 79 27 58 | 📧 any.gouba@gmail.com  
 
 ---
 
-## 📊 Statistiques GitHub
+## 🧰 Compétences Techniques
+
+- HTML / CSS
+- PHP & Symfony
+- JavaScript & React JS
+- Java (Spring Boot / Hibernate)
+- Linux (utilisation et environnement de développement)
+
+---
+
+## 🗣️ Langues
+
+- 🇬🇧 Anglais
+- 🇯🇵 Japonais
+
+---
+
+## 💼 Expériences récentes
+
+- 🔧 Développeur Web – Stage (9 semaines) chez Philiance Formation
+- 💻 Concepteur Développeur d’Applications – Stage (11 semaines) chez GRETA Massy
+- 🎮 Préparateur Vendeur – Micromania
+
+---
+
+## 🎨 Loisirs
+
+- 🎸 Guitare en amateur
+- 🧪 DIY et bidouille
+- 📚 Lecture de romans de science-fiction
+- 🎮 Gaming passionné
+
+---
+
+## 📈 Statistiques GitHub
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateurGitHub&show_icons=true&theme=default&count_private=true&hide_border=true)
 
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomUtilisateur&layout=compact&hide_border=true)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomUtilisateurGitHub&layout=compact&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=TonNomUtilisateur&theme=default)
+![Streak](https://streak-stats.demolab.com?user=TonNomUtilisateurGitHub&theme=default)
 
 </div>
 
 ---
 
-## ✍️ Citation du moment
+## 🏆 Qualités personnelles
 
-> “Le succès est la somme de petits efforts répétés jour après jour.” — Robert Collier
-
----
-
-## 📫 Me contacter
-
-- Email : [ton.email@example.com]
-- LinkedIn : [ton lien LinkedIn]
-- Site perso / Portfolio : [si tu en as un]
+- Esprit d'équipe
+- Autonomie
+- Adaptabilité
+- Goût du challenge
 
 ---
 
-Merci de visiter mon profil ! ⭐
+## 🤝 Me contacter
+
+📬 [any.gouba@gmail.com](mailto:any.gouba@gmail.com)  
+📍 Épinay-sur-Seine  
+🔗 [LinkedIn – à ajouter si disponible]
+
+---
+
+> *"Le succès vient à ceux qui persévèrent avec passion et humilité."*
